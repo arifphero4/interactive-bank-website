@@ -60,5 +60,3 @@ document
     // clear input field
     withdrawInput.value = "";
   });
-
-// update account balance
